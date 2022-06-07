@@ -9,7 +9,9 @@ local _hefty={
 	caustic_soda=3,
 	hydrogen_chloride=3,
 	evidence=2,
-	crowbar=2
+	crowbar=2,
+	printer_ink=5,
+	paper_roll=5
 	}
 
 for name, quantity in pairs(_hefty) do
